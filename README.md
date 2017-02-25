@@ -1,6 +1,5 @@
 # DragAnywhere
 
-<<<<<<< HEAD
 DragAnywhere is a jQuery plugin that adds a whole new level of interactivity to
 your web app by creating a seamless connection between different parts of your site.
 DragAnywhere makes elements of your choice draggable and stores data along with
@@ -134,6 +133,3 @@ Here follows the documentation for all methods and options in DragAnywhere.
 >   name: "Foo bar"
 > });
 > ```
-=======
-DragAnywhere adds a whole new level of interactivity to your web app.
->>>>>>> 16b22759f2d0e779e13ca3a1ea0871d867e4dabc
